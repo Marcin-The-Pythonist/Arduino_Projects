@@ -9,6 +9,6 @@
   <li>A breadboard</li>
 </ul>
 <h3>Scheme</h3>
-![image](https://github.com/user-attachments/assets/b1296f02-1bb3-408f-bafc-5545fc7fe01f)
+<img src=https://github.com/user-attachments/assets/b1296f02-1bb3-408f-bafc-5545fc7fe01f>
 
 
