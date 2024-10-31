@@ -3,7 +3,7 @@
 <h3>Parts used:</h3>
 <ul>
   <li>HC-SR04</li>
-  <li>9 male-to-male jumper wires</li>
+  <li>7 male-to-male jumper wires</li>
   <li>Arduino Uno R3</li>
   <li>A diode</li>
   <li>A breadboard</li>
