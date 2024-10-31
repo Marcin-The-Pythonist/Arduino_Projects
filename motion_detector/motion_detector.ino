@@ -21,7 +21,7 @@ void loop() {
   digitalWrite(trigPin, LOW);
  
   time_microsec = pulseIn(echoPin, HIGH);
-  distance_cm = time_microsec * 0.034 / 2; /* 34000 cm / s = 34000cm / 100000 microseconds = 0.34cm / microsecond */
+  distance_cm = time_microsec * 0.034 / 2; /* 34000 cm / s = 34000cm / 100000 microseconds = 0.034cm / microsecond */
 
   /*Checking for obstacles within the distance sensor path*/
   if(distance_cm < 200){
