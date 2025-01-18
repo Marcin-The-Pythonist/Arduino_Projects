@@ -56,7 +56,7 @@ time = 0 # Time since last price update
 btc_usd_prev = 0
 
 while True:
-        r = urequests.get("https://api.coindesk.com/v1/bpi/currentprice.json") # Server that returns the current GMT+0 time.
+        r = urequests.get("https://api.coindesk.com/v1/bpi/currentprice.json") # Accessing the data on bitcoin price(GMT)
         json = r.json()
         btc_usd = json["bpi"]["USD"]["rate"]
         
